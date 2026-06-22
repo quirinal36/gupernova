@@ -1,0 +1,5 @@
+# Local verification screenshots
+preview*.png
+
+# OS/editor noise
+.DS_Store
